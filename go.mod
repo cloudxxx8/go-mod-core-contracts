@@ -6,7 +6,7 @@ require (
 	github.com/go-logfmt/logfmt v0.4.0 // indirect
 	github.com/go-playground/validator/v10 v10.6.1
 	github.com/go-stack/stack v1.8.0 // indirect
-	github.com/google/uuid v1.2.0
+	github.com/google/uuid v1.3.0
 	github.com/stretchr/testify v1.7.0
 	gopkg.in/yaml.v2 v2.4.0
 )
